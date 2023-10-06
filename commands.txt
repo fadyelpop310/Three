@@ -1,0 +1,17 @@
+gin config -l / --list
+
+git help config
+
+git config --global (property)
+git config --global (property) "(value)"
+git config --global unset (property)
+
+git config -l --show-origin
+git config --global --editor
+touch (to create new file)
+
+===============================
+
+ssh-keygen -t rsa -b 4096 -C "email"
+محتوى البابلك فى الملف واربطه بالجت
+ssh -T git@github.com
